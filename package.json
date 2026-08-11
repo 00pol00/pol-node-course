@@ -1,0 +1,20 @@
+{
+  "name": "node-website",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "express",
+    "website",
+    "node"
+  ],
+  "author": "paul",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
